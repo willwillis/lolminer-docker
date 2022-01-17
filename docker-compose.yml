@@ -9,8 +9,8 @@ services:
     devices:
        - /dev/dri:/dev/dri # for GPU access
     environment:
-      - COIN=ETH
-      - HOST=eth.2miners.com
-      - PORT=2020
-      - WALLET=0x74ba897f65f04008d8eff364efcc54b0a20e17eb
-      - MACHINE=docker
+      - COIN=AION
+      - HOST=pool.us.woolypooly.com
+      - PORT=33333
+      - WALLET=a0ac4402b949e06ab5d97adaa31126d8964a3c8603927cbd3e028a8132e4fd98
+      - MACHINE=UnRaideon8570
